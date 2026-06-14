@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co/7x2Kj1mW/kryonix.png" width="100" alt="KyronixStudio" />
+<img src="https://i.ibb.co/CphkccnW/file-0000000098d071fa88c0f278588b2787.png" width="100" alt="KyronixStudio" />
 
 <h1>KyronixStudio</h1>
 
