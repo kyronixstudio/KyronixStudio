@@ -80,7 +80,6 @@ Led by **Paradox**, running a small coding team out of India, building in public
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyronixstudio&bg_color=160726&color=C084FC&line=A855F7&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity" width="90%" />
 
-<sub>Stats cards pull live data from a shared free service — if one looks blank, refresh in a minute; it occasionally rate-limits.</sub>
 
 </div>
 
