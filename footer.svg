@@ -1,0 +1,16 @@
+<svg width="1200" height="130" viewBox="0 0 1200 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgf" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="55%" stop-color="#5B21B6"/>
+      <stop offset="100%" stop-color="#160726"/>
+    </linearGradient>
+    <linearGradient id="wavef" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.02"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="130" fill="url(#bgf)"/>
+  <path d="M0,40 C220,80 380,10 600,40 C820,80 980,10 1200,40 L1200,0 L0,0 Z" fill="url(#wavef)"/>
+  <path d="M0,60 C240,95 400,30 600,60 C800,95 960,30 1200,60 L1200,0 L0,0 Z" fill="#FFFFFF" fill-opacity="0.04"/>
+</svg>
