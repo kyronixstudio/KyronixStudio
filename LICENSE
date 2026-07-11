@@ -1,167 +1,183 @@
-                        KYRONIXSTUDIO PROPRIETARY LICENSE
-                                   Version 1.0 — 2026
+                          KYRONIXSTUDIO PROPRIETARY LICENSE
+                                    Version 1.0 — 2026
 
-                        Copyright (c) 2026 KyronixStudio
-                               All Rights Reserved.
-
-================================================================================
-
-                  PLEASE READ THIS AGREEMENT CAREFULLY.
-          IT IS A LEGALLY BINDING CONTRACT BETWEEN YOU AND KYRONIXSTUDIO.
+                          Copyright © 2026 KyronixStudio.
+                                All Rights Reserved.
 
 ================================================================================
 
+                            READ THIS AGREEMENT CAREFULLY.
+              IT IS A BINDING LEGAL CONTRACT BETWEEN YOU AND KYRONIXSTUDIO.
 
-  This License Agreement ("Agreement") governs your access to and use of any
-  source code, software, scripts, assets, documentation, or other materials
-  ("Software") found in any repository owned or operated by KyronixStudio.
+================================================================================
 
-  By accessing, cloning, downloading, forking, or viewing this Software in
-  any capacity, you agree to be bound by every term stated in this Agreement.
 
-  If you do not agree — stop now, close this repository, and delete any
-  copies you may have obtained. Continued access implies full acceptance.
+PREAMBLE
+
+This License Agreement ("Agreement") governs all access to and use of the
+source code, software, scripts, assets, documentation, and other materials
+(collectively, the "Software") contained within any repository owned or
+operated by KyronixStudio.
+
+By accessing, cloning, downloading, forking, or otherwise viewing the
+Software, you acknowledge that you have read, understood, and agreed to be
+bound by the entirety of this Agreement. If you do not agree to these terms,
+you must not access the Software, and you must delete any copies already in
+your possession. Continued access constitutes full and unconditional
+acceptance.
 
 
 ================================================================================
-  SECTION 1  |  OWNERSHIP
+SECTION 1 — OWNERSHIP
 ================================================================================
 
-  1.1  Everything in this repository — source code, logic, design, algorithms,
-       documentation, and assets — is the exclusive intellectual property of
-       KyronixStudio.
+1.1  All content within this repository — including source code, program
+     logic, architecture, design, algorithms, documentation, and associated
+     assets — is the exclusive intellectual property of KyronixStudio.
 
-  1.2  This is NOT open-source software. The fact that this code is visible
-       on a public platform does not grant you any rights to use it.
+1.2  Public visibility does not constitute an open-source license. Availability
+     on a public platform confers no rights of use, reproduction, or
+     distribution beyond what is expressly granted herein.
 
-  1.3  KyronixStudio holds full copyright over all work in this repository,
-       including trade secrets and proprietary methods.
-
-
-================================================================================
-  SECTION 2  |  WHAT YOU CANNOT DO
-================================================================================
-
-  Unless you have received prior written permission from KyronixStudio,
-  each of the following is strictly prohibited:
-
-  2.1  COPY         —  Reproducing any part of this Software, in whole or
-                        in part, for any purpose whatsoever.
-
-  2.2  MODIFY       —  Altering, adapting, translating, or creating any
-                        derivative work based on this Software.
-
-  2.3  DISTRIBUTE   —  Publishing, sharing, selling, renting, leasing, or
-                        making this Software available to any third party.
-
-  2.4  COMMERCIAL   —  Using this Software in any commercial product,
-                        service, or workflow without a signed license.
-
-  2.5  REVERSE ENG  —  Decompiling, disassembling, or attempting to extract
-                        source logic from any compiled portion.
-
-  2.6  REBRAND      —  Removing or obscuring any copyright notice, license
-                        header, logo, or attribution in this Software.
-
-  2.7  INTEGRATE    —  Embedding or incorporating this Software into another
-                        product or system without written authorization.
-
-  2.8  AI TRAINING  —  Using any portion of this Software as training data
-                        for machine learning or AI code-generation systems.
+1.3  KyronixStudio retains full and undivided copyright over all work
+     contained in this repository, including any trade secrets, proprietary
+     methods, and unpublished techniques embedded within it.
 
 
 ================================================================================
-  SECTION 3  |  WHAT YOU CAN DO
+SECTION 2 — PROHIBITED CONDUCT
 ================================================================================
 
-  3.1  You may VIEW this Software for personal learning and reference only,
-       provided you do not violate anything in Section 2.
+Absent prior written authorization from KyronixStudio, you shall not:
 
-  3.2  Any use beyond reading — deploying, copying, building on top of it —
-       requires a separate written agreement with KyronixStudio.
+2.1  REPRODUCE      Copy or reproduce any portion of the Software, in whole
+                     or in part, for any purpose.
 
-  3.3  Want to use our work? Reach out BEFORE you do anything with it.
-       We are open to collaboration and licensing — but contact comes first.
+2.2  MODIFY          Alter, adapt, translate, or create derivative works
+                     based upon the Software.
 
-       Discord  ->  https://discord.gg/UFCdsaMnYm
-       YouTube  ->  https://www.youtube.com/@kyronixstudio
+2.3  DISTRIBUTE      Publish, share, sell, rent, lease, sublicense, or
+                     otherwise make the Software available to any third
+                     party.
+
+2.4  COMMERCIALIZE   Deploy the Software, in whole or in part, within any
+                     commercial product, service, or workflow absent a
+                     signed licensing agreement.
+
+2.5  REVERSE-ENGINEER   Decompile, disassemble, or otherwise attempt to
+                     extract underlying source logic from any compiled or
+                     obfuscated component.
+
+2.6  REBRAND         Remove, alter, or obscure any copyright notice, license
+                     header, logo, or attribution contained within the
+                     Software.
+
+2.7  INTEGRATE       Embed or incorporate the Software into another product,
+                     platform, or system without express written
+                     authorization.
+
+2.8  TRAIN            Use any portion of the Software as training, tuning,
+                     or evaluation data for machine learning or AI
+                     code-generation systems.
 
 
 ================================================================================
-  SECTION 4  |  ENFORCEMENT
+SECTION 3 — PERMITTED USE
 ================================================================================
 
-  4.1  Unauthorized use of this Software constitutes copyright infringement
-       and breach of contract, actionable under:
+3.1  You may view the Software for personal, non-commercial reference and
+     study, provided such viewing does not violate any restriction set forth
+     in Section 2.
+
+3.2  Any use beyond passive viewing — including deployment, adaptation, or
+     integration — requires a separate written agreement executed with
+     KyronixStudio.
+
+3.3  Collaboration and licensing inquiries are welcomed. Contact must
+     precede use.
+
+         Discord  ->  https://discord.gg/UFCdsaMnYm
+         YouTube  ->  https://www.youtube.com/@kyronixstudio
+
+
+================================================================================
+SECTION 4 — ENFORCEMENT
+================================================================================
+
+4.1  Unauthorized use of the Software constitutes copyright infringement and
+     breach of contract, actionable under, without limitation:
 
          >  The Indian Copyright Act, 1957
          >  The Information Technology Act, 2000
-         >  The Berne Convention for the Protection of Literary and Artistic Works
+         >  The Berne Convention for the Protection of Literary and
+            Artistic Works
          >  The WIPO Copyright Treaty
-         >  All other applicable international intellectual property law
+         >  Any other applicable international intellectual property law
 
-  4.2  KyronixStudio reserves the right to pursue injunctive relief,
-       statutory and actual damages, and full recovery of legal costs.
+4.2  KyronixStudio reserves the right to pursue injunctive relief, statutory
+     and actual damages, and recovery of all associated legal costs.
 
-  4.3  Violations will be reported to GitHub and other relevant platforms
-       for DMCA takedown and account action where applicable.
+4.3  Confirmed violations will be reported to GitHub and other relevant
+     platforms for takedown and account action, where applicable.
 
-  4.4  "I didn't know" is not a valid legal defense. Accessing this
-       repository means you are considered to have read this Agreement.
-
-
-================================================================================
-  SECTION 5  |  NO WARRANTY
-================================================================================
-
-  This Software is provided "as is" with no warranties of any kind — express
-  or implied — including fitness for purpose or non-infringement.
-
-  KyronixStudio is not liable for any damages arising from use of or
-  inability to use this Software, even if advised of such possibility.
+4.4  Lack of awareness of these terms does not constitute a valid defense.
+     Access to this repository is deemed conclusive evidence that this
+     Agreement has been read and accepted.
 
 
 ================================================================================
-  SECTION 6  |  GOVERNING LAW
+SECTION 5 — DISCLAIMER OF WARRANTY
 ================================================================================
 
-  This Agreement is governed by the laws of India. Any disputes shall fall
-  under the exclusive jurisdiction of the courts of India.
-
-
-================================================================================
-  SECTION 7  |  TERMINATION
-================================================================================
-
-  Your rights under this Agreement terminate immediately and automatically
-  the moment you breach any term herein — without notice from KyronixStudio.
-
-  Upon termination, you must permanently delete all copies of the Software
-  in your possession, control, or storage.
+The Software is provided "as is," without warranty of any kind, express or
+implied, including but not limited to warranties of merchantability, fitness
+for a particular purpose, or non-infringement. KyronixStudio shall not be
+liable for any damages arising from the use of, or inability to use, the
+Software, even if advised of the possibility of such damages.
 
 
 ================================================================================
-  SECTION 8  |  CONTACT & LICENSING
+SECTION 6 — GOVERNING LAW
 ================================================================================
 
-  We build websites, Discord bots, and SaaS products.
-  If you want to work with us or license something — talk to us first.
-
-       KyronixStudio
-       Discord  ->  https://discord.gg/UFCdsaMnYm
-       YouTube  ->  https://www.youtube.com/@kyronixstudio
-
-  All licensing requests must be made in writing and explicitly approved
-  by KyronixStudio before any use begins. Verbal or implied agreements
-  carry no legal weight and will not be honored.
+This Agreement is governed by and construed in accordance with the laws of
+India. Any disputes arising hereunder shall be subject to the exclusive
+jurisdiction of the courts of India.
 
 
 ================================================================================
+SECTION 7 — TERMINATION
+================================================================================
 
-                     Copyright (c) 2026 KyronixStudio
-                           All Rights Reserved.
+Your rights under this Agreement terminate automatically and without notice
+upon any breach of its terms. Upon termination, you must permanently delete
+all copies of the Software in your possession, custody, or control.
 
-         Unauthorized use of this Software violates applicable law and
-               will be pursued to the fullest extent permitted.
+
+================================================================================
+SECTION 8 — CONTACT & LICENSING
+================================================================================
+
+KyronixStudio builds websites, Discord bots, and SaaS products. If you wish
+to collaborate, license, or build upon this work, reach out first — every
+partnership begins with a conversation.
+
+         KyronixStudio
+         Discord  ->  https://discord.gg/UFCdsaMnYm
+         YouTube  ->  https://www.youtube.com/@kyronixstudio
+
+All licensing requests must be submitted in writing and expressly approved
+by KyronixStudio prior to any use. Verbal or implied agreements carry no
+legal weight and will not be honored.
+
+
+================================================================================
+
+                          Copyright © 2026 KyronixStudio.
+                                All Rights Reserved.
+
+           Unauthorized use of this Software violates applicable law
+                  and will be pursued to the fullest extent
+                            permitted thereunder.
 
 ================================================================================
