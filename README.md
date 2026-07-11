@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kyronixstudio/Kyronixstudio/main/assets/header.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Kyronixstudio/Kyronixstudio/main/header.svg" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=750&lines=Idea+%E2%86%92+shipped+product.+No+half-finished+work.;Full-stack+builds%2C+clean+code%2C+real+products.;Discord+bots%2C+SaaS+platforms%2C+automation.;Vibe+coding+with+AI%2C+shipping+for+real." />
 
@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Kyronixstudio/Kyronixstudio/main/assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Kyronixstudio/Kyronixstudio/main/divider.svg" width="100%" />
 
 <br/>
 
@@ -40,7 +40,7 @@ Led by **Paradox**, running a small coding team out of India, building in public
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/Kyronixstudio/Kyronixstudio/main/assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Kyronixstudio/Kyronixstudio/main/divider.svg" width="100%" />
 
 <div align="center">
 
@@ -67,7 +67,7 @@ Led by **Paradox**, running a small coding team out of India, building in public
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Kyronixstudio/Kyronixstudio/main/assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Kyronixstudio/Kyronixstudio/main/divider.svg" width="100%" />
 
 <div align="center">
 
@@ -80,10 +80,9 @@ Led by **Paradox**, running a small coding team out of India, building in public
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyronixstudio&bg_color=160726&color=C084FC&line=A855F7&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity" width="90%" />
 
-
 </div>
 
-<img src="https://raw.githubusercontent.com/Kyronixstudio/Kyronixstudio/main/assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Kyronixstudio/Kyronixstudio/main/divider.svg" width="100%" />
 
 <div align="center">
 
@@ -95,7 +94,7 @@ Got a project in mind? Drop us a message on Discord before anything else.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Kyronixstudio/Kyronixstudio/main/assets/footer.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Kyronixstudio/Kyronixstudio/main/footer.svg" width="100%" />
 
 <div align="center">
 <sub>© 2026 Kyronix Headquarters — All rights reserved · <a href="./LICENSE">LICENSE</a></sub>
