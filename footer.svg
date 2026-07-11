@@ -1,16 +1,82 @@
-<svg width="1200" height="130" viewBox="0 0 1200 130" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bgf" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#A855F7"/>
-      <stop offset="55%" stop-color="#5B21B6"/>
-      <stop offset="100%" stop-color="#160726"/>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D0318"/>
+      <stop offset="45%" stop-color="#4C1D95"/>
+      <stop offset="100%" stop-color="#A855F7"/>
     </linearGradient>
-    <linearGradient id="wavef" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.08"/>
-      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.02"/>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C084FC" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#7C3AED" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0.55"/>
     </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.10"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.10"/>
+    </linearGradient>
+    <linearGradient id="wave3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E0A38"/>
+      <stop offset="50%" stop-color="#5B21B6"/>
+      <stop offset="100%" stop-color="#1E0A38"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#D8B4FE" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#D8B4FE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+    <filter id="glowText" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
-  <rect width="1200" height="130" fill="url(#bgf)"/>
-  <path d="M0,40 C220,80 380,10 600,40 C820,80 980,10 1200,40 L1200,0 L0,0 Z" fill="url(#wavef)"/>
-  <path d="M0,60 C240,95 400,30 600,60 C800,95 960,30 1200,60 L1200,0 L0,0 Z" fill="#FFFFFF" fill-opacity="0.04"/>
+
+  <rect width="1200" height="220" fill="url(#bg)"/>
+
+  <circle cx="120" cy="30" r="110" fill="url(#glowA)" filter="url(#soft)"/>
+  <circle cx="1100" cy="200" r="150" fill="url(#glowB)" filter="url(#soft)"/>
+  <circle cx="620" cy="0" r="90" fill="url(#glowA)" filter="url(#soft)" opacity="0.6"/>
+
+  <path fill="url(#wave3)" opacity="0.55">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="
+        M0,150 C200,190 350,120 600,150 C850,180 1000,110 1200,150 L1200,220 L0,220 Z;
+        M0,160 C220,120 380,190 600,160 C820,120 980,190 1200,160 L1200,220 L0,220 Z;
+        M0,150 C200,190 350,120 600,150 C850,180 1000,110 1200,150 L1200,220 L0,220 Z" />
+  </path>
+
+  <path fill="url(#wave1)" opacity="0.7">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+        M0,175 C240,140 360,205 600,175 C840,145 960,210 1200,175 L1200,220 L0,220 Z;
+        M0,165 C240,205 360,140 600,165 C840,200 960,135 1200,165 L1200,220 L0,220 Z;
+        M0,175 C240,140 360,205 600,175 C840,145 960,210 1200,175 L1200,220 L0,220 Z" />
+  </path>
+
+  <path fill="url(#wave2)" opacity="0.85">
+    <animate attributeName="d" dur="4.5s" repeatCount="indefinite"
+      values="
+        M0,195 C260,215 340,180 600,195 C860,210 940,175 1200,195 L1200,220 L0,220 Z;
+        M0,190 C260,175 340,210 600,190 C860,175 940,210 1200,190 L1200,220 L0,220 Z;
+        M0,195 C260,215 340,180 600,195 C860,210 940,175 1200,195 L1200,220 L0,220 Z" />
+  </path>
+
+  <text x="600" y="92" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="46" font-weight="800" fill="#FFFFFF" letter-spacing="1.5" filter="url(#glowText)" opacity="0">
+    KYRONIX HEADQUARTERS
+    <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/>
+  </text>
+
+  <text x="600" y="128" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="18" fill="#E9D5FF" opacity="0">
+    We build websites, Discord bots &amp; SaaS
+    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.35s" fill="freeze"/>
+  </text>
 </svg>
